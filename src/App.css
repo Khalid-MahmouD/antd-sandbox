@@ -27,6 +27,10 @@
 .App-link {
   color: #61dafb;
 }
+.ant-message {
+  top: auto !important;
+  bottom: 50px;
+}
 
 @keyframes App-logo-spin {
   from {
